@@ -6,6 +6,7 @@ Self-driving cars are set to be the next revolution in the automotive industry. 
 
 To accomplish this, you’ll use your knowledge of TypeScript object types to apply types to a variety of classes, properties, and methods. Start your engine and let’s hit the road!
 
+## Tasks
 ### Start the engine
 1. Let’s inspect the files that currently exist:
 
